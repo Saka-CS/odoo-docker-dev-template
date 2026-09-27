@@ -1,0 +1,15 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Linux",
+  "typeCheckingMode": "basic",
+  "include": ["addons"],
+  "exclude": [".venv", "odoo"],
+  "reportMissingModuleSource": "none",
+  "reportUnusedExpression": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportOperatorIssue": "none",
+  "reportArgumentType": "none",
+  "reportIndexIssue": "none"
+}
